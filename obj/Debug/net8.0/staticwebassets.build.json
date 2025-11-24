@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "z3exeUN+fteCYSD2vbZo25fDcvjXfYqyvhyEgYlF0Gs=",
+  "Source": "DockerVenta",
+  "BasePath": "_content/DockerVenta",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
